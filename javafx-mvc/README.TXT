@@ -4,9 +4,9 @@ Informe ao usuário (alguém que não sabe nada sobre este projeto!) tudo que
 ele/ela precisa saber. Os comentários devem incluir, pelo menos:
 ------------------------------------------------------------------------
 
-TÍTULO DO PROJETO:
-OBJETIVO DO PROJETO:
-VERSÃO ou DATA:
+TÍTULO DO PROJETO: Área de um tijolo  
+OBJETIVO DO PROJETO:Calcular a área de um tijolo
+VERSÃO ou DATA:1.0
 COMO INICIAR O PROJETO:
-AUTORES:
+AUTORES: Abner Gabriel
 INSTRUÇÕES PARA O USUÁRIO:
